@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>Subscribe | COMP1002 HTML, CSS, and JS Fundamentals</title>
-		<meta name="author" content="The name of the document’s author to go here" />
+		<meta name="author" content="Varun Khunger" />
 		<meta name="description" content="A concise and accurate summary of the document content is to appear here">
 		<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
 		<link rel="stylesheet" href="css/styles.css" />
